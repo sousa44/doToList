@@ -1,6 +1,7 @@
 doToList
 
-<img src="">
+<img src="imagemListaDeTarefas.png
+" width="400px" height="300px">
 
 O doToList é uma aplicação web para gerenciamento de tarefas, desenvolvida com foco em simplicidade, clareza e aprendizado prático dos fundamentos do desenvolvimento front-end. O projeto permite ao usuário adicionar, visualizar e remover tarefas de forma dinâmica, utilizando apenas tecnologias essenciais da web.
 
